@@ -134,6 +134,7 @@ plt.show()
 
 ![DL Exp7 o1](https://user-images.githubusercontent.com/75235386/201968911-135ecbc1-d84a-4e9c-b016-d5d711cb2110.png)
 
+
 ![DL Exp7 o2](https://user-images.githubusercontent.com/75235386/201968944-a9f6ac84-70ac-474a-82d9-557988142255.png)
 
 ### Original vs Noisy Vs Reconstructed Image
