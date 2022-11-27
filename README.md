@@ -1,4 +1,7 @@
-# Convolutional Autoencoder for Image Denoising
+### EXP NO: 07
+### DATE: 14.11.2022
+
+# <p align = "center"> Convolutional Autoencoder for Image Denoising
 
 ## AIM:
 
@@ -39,7 +42,7 @@ Plot the predictions for visualization.
 
 ## PROGRAM:
 
-```Python
+```
 Developed By: Aditya JV
 Register Number: 212220230002
 ```
